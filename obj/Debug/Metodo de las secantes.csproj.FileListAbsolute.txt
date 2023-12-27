@@ -1,0 +1,10 @@
+C:\Users\Ferna\Desktop\Escuela\metodosNumericos\Metodo de las secantes\bin\Debug\Metodo de las secantes.exe.config
+C:\Users\Ferna\Desktop\Escuela\metodosNumericos\Metodo de las secantes\bin\Debug\Metodo de las secantes.exe
+C:\Users\Ferna\Desktop\Escuela\metodosNumericos\Metodo de las secantes\bin\Debug\Metodo de las secantes.pdb
+C:\Users\Ferna\Desktop\Escuela\metodosNumericos\Metodo de las secantes\obj\Debug\Metodo de las secantes.csproj.AssemblyReference.cache
+C:\Users\Ferna\Desktop\Escuela\metodosNumericos\Metodo de las secantes\obj\Debug\Metodo_de_las_secantes.Form1.resources
+C:\Users\Ferna\Desktop\Escuela\metodosNumericos\Metodo de las secantes\obj\Debug\Metodo_de_las_secantes.Properties.Resources.resources
+C:\Users\Ferna\Desktop\Escuela\metodosNumericos\Metodo de las secantes\obj\Debug\Metodo de las secantes.csproj.GenerateResource.cache
+C:\Users\Ferna\Desktop\Escuela\metodosNumericos\Metodo de las secantes\obj\Debug\Metodo de las secantes.csproj.CoreCompileInputs.cache
+C:\Users\Ferna\Desktop\Escuela\metodosNumericos\Metodo de las secantes\obj\Debug\Metodo de las secantes.exe
+C:\Users\Ferna\Desktop\Escuela\metodosNumericos\Metodo de las secantes\obj\Debug\Metodo de las secantes.pdb
